@@ -58,7 +58,7 @@ The Classroom
     
     Dr. Paola Rebusco shows off the newly redesigned kitchen she used to teach Speak Italian With Your Mouth Full.
     
-    <style type="text/css"> .pagecontainer {display:none;} </style> <div id="atnmsg" style='width: 300px;' class="attention\_message"> <p>Flash and JavaScript are required for this feature.</p> </div>
+    \<style type="text/css"> .pagecontainer {display:none;} \</style> \<div id="atnmsg" style='width: 300px;' class="attention\_message"> \<p>Flash and JavaScript are required for this feature.\</p> \</div>
     
     [Watch Dr. Rebusco give a guided tour of the ESG common space and classrooms.](#?w=535)
     
