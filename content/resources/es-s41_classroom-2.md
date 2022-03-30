@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a6e7d634-7a40-6faa-23d0-020703ee7044
 resourcetype: Image
 title: ES-S41_classroom-2.png
 uid: e36b5812-ddd9-9f8f-bc1b-73e567d69113

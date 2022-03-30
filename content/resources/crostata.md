@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Graham Ramsay.
   image-alt: A photo taken above of a pie plate that contains strips of dough and
     fruit.
+parent_uid: 7e2856c9-a1b9-cf31-0e67-6c2f2d9df120
 resourcetype: Image
 title: crostata.jpg
 uid: 70681bfa-0ce3-478f-83ea-3f52a0102e14

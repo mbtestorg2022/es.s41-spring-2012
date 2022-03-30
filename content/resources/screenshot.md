@@ -8,6 +8,7 @@ image_metadata:
   caption: A screenshot of the class' blog.
   credit: Image courtesy of Paola Rebusco and Graham Gordon Ramsay.
   image-alt: A screenshot of the class blog.
+parent_uid: 25064ffd-df3d-0c75-eddb-15ab516ecacd
 resourcetype: Image
 title: Screenshot.jpg
 uid: eefaab45-dadf-d5f9-b12a-4cb8f36e4b66

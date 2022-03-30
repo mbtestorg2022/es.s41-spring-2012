@@ -9,6 +9,7 @@ image_metadata:
     alla caprese.
   credit: Image courtesy of Graham Gordon Ramsay.
   image-alt: A bowl contains pasta shells, tomatoes, and cheese.
+parent_uid: 47f6cbac-8f7a-d956-625b-ba782046ba03
 resourcetype: Image
 title: Lesson13.jpg
 uid: 457aa75e-8c97-7201-fe6d-391f8bb8a2c4

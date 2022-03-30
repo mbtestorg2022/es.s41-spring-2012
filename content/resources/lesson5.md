@@ -10,6 +10,7 @@ image_metadata:
     of Jeremy Keith of Flickr. CC-BY.
   credit: Image courtesy of Jeremy Keith of Flickr. CC-BY.
   image-alt: A photograph of half a dozen zucchinis.
+parent_uid: 56e06732-1e88-3c54-5df6-9d03d3daeb8b
 resourcetype: Image
 title: Lesson5.jpg
 uid: d91360fb-2bbf-5611-b989-e4654ec228fd

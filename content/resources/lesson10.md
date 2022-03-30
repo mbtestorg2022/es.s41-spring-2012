@@ -8,6 +8,7 @@ image_metadata:
   caption: La sbrisolona, a big crumbly tart, is popular in the Italian city of Mantova.
   credit: Image courtesy of Graham Gordon Ramsay.
   image-alt: Two pie dishes of dough sit on a counter.
+parent_uid: 246b7204-f562-c6cf-d930-6a51cbf7a049
 resourcetype: Image
 title: Lesson10.jpg
 uid: 28bae3a7-47f7-b309-1059-6aa0afeb7534

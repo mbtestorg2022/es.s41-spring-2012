@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of the USDA.
   image-alt: A photograph containing a lot of vegetables, including broccoli, cauliflower,
     red and yellow peppers, tomatoes, corn, and mushrooms.
+parent_uid: 31012ed4-66e8-2d99-ed4d-314823b03f20
 resourcetype: Image
 title: Lesson8.jpg
 uid: 103848ae-41da-7ef9-45ea-e9eaf3aa902d

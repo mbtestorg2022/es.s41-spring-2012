@@ -9,6 +9,7 @@ image_metadata:
     used in Italian cooking.
   credit: Image courtesy of Graham Gordon Ramsay.
   image-alt: A photograph of garlic, onions, celery, and carrots lying on a counter.
+parent_uid: 45ae6e3b-7bcf-ebdb-0480-f2b9be5a75b7
 resourcetype: Image
 title: Lesson4.jpg
 uid: 970f8c93-7ff7-88ac-d1b6-a2e0e87d54ab

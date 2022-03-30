@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Claire Sutton on Flickr. CC BY-NC-SA.
   image-alt: A mound of rice sits on top of a white plate.  A large leafy green vegetable
     sits on top of the rice.
+parent_uid: 463b4c8e-dc1e-e06b-6353-693de4b36524
 resourcetype: Image
 title: Lesson2.jpg
 uid: 35e81c71-eb7a-8eee-6aa2-84b3e38ef095
